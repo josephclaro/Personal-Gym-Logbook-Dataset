@@ -9,6 +9,8 @@ The data is contained in three tables, along with a dictionary for heading expla
 - **Sessions**, which has information specific to each session at the gym (when and where it took place, etc).
 
 Each table is linked using primary keys and foreign keys where appropriate. This dataset makes for good SQL practice, feel free to fry it out :)
+Also included is a SQL file with practice queries written from scratch.
 
 Here's an ER diagram for the data, explaining table relationships:
+
 ![ER Diagram of the Gym Dataset](Claro_Gym_DB_ERdiagram.png)
